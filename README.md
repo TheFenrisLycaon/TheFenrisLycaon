@@ -2,7 +2,7 @@
 
 ## Hello World
 
-### I'm Rishabh Anand, a homo saipein who is passionate about simplifying things through technology. I'm a Python Developer and CyberSecurity Specialist. Sometimes I feel I am useless. Other times, I do commits
+I'm Rishabh Anand, a homo saipein who is passionate about simplifying things through technology. I'm a Python Developer and CyberSecurity Specialist. Sometimes I feel I am useless. Other times, I do commits
 
 ***
 
@@ -12,7 +12,8 @@
 
 ***
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=TheFenrisLycaon&show_icons=true&theme=gruvbox&count_private=trues)
+![My github stats](https://github-readme-stats.vercel.app/api?username=TheFenrisLycaon&show_icons=true&theme=midnight-purple&count_private=trues)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheFenrisLycaon&langs_count=4&layout=compact&theme=midnight-purple)
 
 ***
 
