@@ -1,18 +1,32 @@
- <h1> Welcome </h1>
+# Welcome  
 
- <h3> Hello World !</h3> 
+## Hello World
 
- <h4> I'm Rishabh Anand, a homo saipein who is passionate about simplifying things through technology. I'm a Python Developer and CyberSecurity Specialist. </h4>  
+### I'm Rishabh Anand, a homo saipein who is passionate about simplifying things through technology. I'm a Python Developer and CyberSecurity Specialist. Sometimes I feel I am useless. Other times, I do commits
 
-- 🥅 2021 Goals : Have a good CP profile & Contribute to Open Source projects
-- [Get in touch.](mailto:cse.19BCS4525@gmail.com) 
-- ⚡ Fun fact: 
+***
 
+- 2021 Goals : Have a good CP profile & Contribute to Open Source projects
+- [Get in touch.](mailto:cse.19BCS4525@gmail.com)  
+- ⚡ Fun fact: I'm awesome !
+
+***
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=TheFenrisLycaon&show_icons=true&theme=gruvbox&count_private=trues)
 
+***
 
- ### Connect w/ Me
+## Hobbies
+
+- Maths
+- Anime
+- Programming
+- Music
+- Photography
+
+***
+
+## Connect w/ Me
 
 [<img align="left" alt="linkdin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:CSE.19BCS4525@gmail.com)
