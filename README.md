@@ -2,7 +2,7 @@
 
 ## Hello World
 
-I'm Rishabh Anand, a homo saipein who is passionate about simplifying things through technology. I'm a Python Developer and CyberSecurity Specialist. Sometimes I feel I am useless. Other times, I do commits
+I'm Rishabh Anand, a homo saipien who is passionate about simplifying things through technology. I'm a Python Developer and CyberSecurity Specialist. Sometimes I feel I am useless. Other times, I do commits
 
 ***
 
