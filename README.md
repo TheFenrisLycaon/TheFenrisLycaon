@@ -31,9 +31,4 @@ I'm Rishabh Anand, a homo saipien who is passionate about simplifying things thr
 
 [<img align="left" alt="linkdin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:CSE.19BCS4525@gmail.com)
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-
-[facebook]: https://www.facebook.com/the.rishabh.anand/
-[instagram]: https://www.instagram.com/the.rishabh.anand/
 [linkedin]: https://www.linkedin.com/in/rishabhanandxz/
