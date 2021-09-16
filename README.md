@@ -29,6 +29,5 @@ I'm Rishabh Anand, a homo saipien who is passionate about simplifying things thr
 
 ## Connect w/ Me
 
-[<img align="left" alt="linkdin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="linkdin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][https://www.linkedin.com/in/rishabhanandxz]
 [![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:CSE.19BCS4525@gmail.com)
-[linkedin]: https://www.linkedin.com/in/rishabhanandxz/
