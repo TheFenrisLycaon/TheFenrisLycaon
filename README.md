@@ -13,7 +13,7 @@ I'm Rishabh Anand, a homo saipien who is passionate about simplifying things thr
 ***
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=TheFenrisLycaon&show_icons=true&theme=midnight-purple&count_private=trues)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheFenrisLycaon&langs_count=4&layout=compact&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheFenrisLycaon&langs_count=8&layout=compact&theme=midnight-purple)
 
 ***
 
