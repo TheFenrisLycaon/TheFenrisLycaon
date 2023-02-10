@@ -2,11 +2,11 @@
 
 ## Hello World
 
-I'm [Rishabh Anand](https://www.linkedin.com/in/rishabhanandxz), a homo saipien who is passionate about simplifying things through technology. I'm a Python Developer and CyberSecurity Specialist. Sometimes I feel I am useless. Other times, I do commits
+I'm [Rishabh Anand](https://www.linkedin.com/in/rishabhanandxz), a homo saipien who is passionate about simplifying things through technology. I'm a Problem solver, CyberSecurity Specialist. Sometimes I feel I am useless. Other times, I do commits.
 
 ***
 
-- 2022 Goals : Have a good CP profile & Contribute to Open Source projects
+- 2023 Goals : Contribute to Open Source projects
 - [Get in touch.](mailto:cse.19BCS4525@gmail.com)  
 - ⚡ Fun fact: I'm awesome !
 
@@ -21,7 +21,6 @@ I'm [Rishabh Anand](https://www.linkedin.com/in/rishabhanandxz), a homo saipien 
 
 - Maths
 - Anime
-- Programming
 - Music
 - Photography
 
