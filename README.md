@@ -2,7 +2,7 @@
 
 ## Hello World
 
-I'm [Rishabh Anand](https://www.linkedin.com/in/rishabhanandxz), a homo saipien who is passionate about simplifying things through technology. I'm a Problem solver, CyberSecurity Specialist. Sometimes I feel I am useless. Other times, I do commits.
+I'm [Rishabh Anand](https://www.linkedin.com/in/rishabhanandxz), a homo saipien who is passionate about simplifying things through technology. I'm a Problem solver, CyberSecurity Specialist, CCNA certified engineer. Sometimes I feel I am useless. Other times, I do commits.
 
 ***
 
