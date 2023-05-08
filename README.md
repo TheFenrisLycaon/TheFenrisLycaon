@@ -30,6 +30,4 @@ I'm [Rishabh Anand](https://www.linkedin.com/in/rishabhanandxz), a homo saipien 
 
 [<img align="left" alt="linkdin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rishabhanandxz)
 [![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:CSE.19BCS4525@gmail.com)
-<a target="_blank" href="https://github.com/TheFenrisLycaon/TheFenrisLycaon">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/visitor-badge/TheFenrisLycaon&style=for-the-badge&label=visitors&query=value&color=0F0F1A&labelColor=0F0F1A" alt="TheFenrisLycaon's vistors">
-</a>
+<a target="_blank" href="https://github.com/TheFenrisLycaon/TheFenrisLycaon"></a>
