@@ -2,7 +2,15 @@
 
 ## Hello World
 
-I'm [Rishabh Anand](https://www.linkedin.com/in/rishabhanandxz), a homo saipien who is passionate about simplifying things through technology. I'm a Problem solver, CyberSecurity Specialist, CCNA certified engineer. Sometimes I feel I am useless. Other times, I do commits.
+I'm [Rishabh Anand](https://www.linkedin.com/in/rishabhanandxz), a Homo sapien who finds immense joy in simplifying intricate matters through the power of technology. My passion drives me to tackle challenges and find innovative solutions. As a Problem Solver and a Cybersecurity Specialist, my expertise shines brightly, strengthened by my CCNA certification, a testament to my dedication to the tech world.
+
+Despite my accomplishments, I must admit that there are moments when I feel uncertain and question my abilities. However, I understand that these vulnerabilities are a natural part of being human and a constant reminder of the room for growth and improvement.
+
+In the face of self-doubt, I find solace in my commitment to making regular git commits. These actions signify my determination to keep pushing forward, regardless of the challenges that come my way. With each commit, I leave a mark of progress, showing that I am capable of making a difference in the projects I undertake.
+
+My journey is a testament to growth, resilience, and a relentless pursuit of excellence. I embrace my achievements and shortcomings alike, knowing that they are both integral parts of my growth as an individual and a professional.
+
+As I continue on this path, I am filled with anticipation for the impact my work will have on the world. Through technology and my unwavering dedication to self-improvement, I hope to leave a lasting legacy and shape a brighter future for those around me.
 
 ***
 
