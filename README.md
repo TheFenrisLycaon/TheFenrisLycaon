@@ -58,6 +58,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/TheFenrisLycaon/TheFenrisLycaon/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/TheFenrisLycaon/TheFenrisLycaon/.github/workflows/snake.svg" alt="Snake animation" />
 
 ###
