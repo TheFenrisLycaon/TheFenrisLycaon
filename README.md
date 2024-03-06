@@ -58,9 +58,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/TheFenrisLycaon/TheFenrisLycaon/outpuy/snake.svg" alt="Snake animation" />
-
-###
